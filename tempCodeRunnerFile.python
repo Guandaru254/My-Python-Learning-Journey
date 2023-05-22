@@ -1,0 +1,7 @@
+v = "Hello Dedan!"
+
+print (v.upper())
+
+m = "HELLO WORLD!"
+
+print (m.lower())
